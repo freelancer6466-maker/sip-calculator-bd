@@ -1,7 +1,4 @@
-# sip-calculator-bd
-SIP Calculator BD helps you plan smart investments in Bangladesh. Calculate monthly SIP, mutual fund returns, savings growth, and financial planning with our free online SIP calculator tool. Best SIP calculator for investors in Bangladesh.
-
-sip-calculator-bd: Comprehensive Financial Calculator Suite for Bangladesh
+#sip-calculator-bd: Comprehensive Financial Calculator Suite for Bangladesh
 
 sip-calculator-bd is a powerful, user-friendly, and all-in-one financial calculator suite designed specifically for users in Bangladesh. This web application simplifies complex financial calculations, empowering users to make informed decisions about their investments, loans, retirement, and other financial goals.
 
